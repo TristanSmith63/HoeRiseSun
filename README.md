@@ -9,4 +9,6 @@ Me and a Friend
 ## License
 MIT License
 ## Link
+https://tristansmith63.github.io/HoeRiseSun/
 ## Photo
+![alt text](image.png)
